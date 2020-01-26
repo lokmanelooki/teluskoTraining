@@ -1,0 +1,6 @@
+1. Download and install Zomato app
+2. Enable location in your device.
+3. Search for pizza.
+4. Select your pizza.
+5. Proceed to payment. (Dont forget to tip the delivery personal)
+6. Enjoy your pizza :)
