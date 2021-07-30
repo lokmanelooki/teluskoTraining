@@ -1,0 +1,5 @@
+go to dominos
+select the pizza
+place the order
+get the order
+and you are ready with your pizza
